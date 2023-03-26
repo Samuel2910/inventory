@@ -3,4 +3,4 @@ pandas==1.4.4
 sklearn==0.0.post1
 scikit-learn==1.0.2
 geneticalgorithm
-
+matplotlib==3.5.2
